@@ -1,7 +1,8 @@
 """
-    Ejemplo de estructura de condicional
-    simple
+Ejemplo de estructura de condicional
+simple
 """
+
 # variable edad, asume el valor ingresado porteclado
 edad = input("Ingrese la edad de la persona: ")
 
@@ -15,7 +16,5 @@ edad = int(edad)
 # desde aquí la variable edad es considerada con tipo d
 # de dato entero
 
-if edad >= 18:
+if edad >= 15:
     print("La persona es mayor de edad en Ecuador")
-
-
